@@ -14,11 +14,11 @@ Follow these steps to set up and run the project:
 
 3. **Install dependencies:**
 
-    npm install
+    npm install (or) npm i
 
 4. **Start the development server:**
 
-    npm start
+    npm run dev
 
 5. **Open the app in your browser:**
 
