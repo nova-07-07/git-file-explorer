@@ -22,4 +22,4 @@ Follow these steps to set up and run the project:
 
 5. **Open the app in your browser:**
 
-    http://localhost:3000
+    http://localhost:5173
